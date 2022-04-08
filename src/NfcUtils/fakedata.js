@@ -1,0 +1,1 @@
+export const fakedata = "encryptedData:5v9Y+hKK7mrHzYS+Z/gpq2yaSnlM7wpqGUXIcGgVyZA=,refKey:56bdba13f8e22f5e4bc9c511b9d5e88f"
